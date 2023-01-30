@@ -1,5 +1,7 @@
 package organizacion01;
 
 public class Prueba {
-l
+public static void main(String[] args) {
+	
+}
 }
